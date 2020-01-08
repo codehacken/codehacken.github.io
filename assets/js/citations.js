@@ -7,19 +7,6 @@ var section = document.querySelector('#publications'); // Identifies the publica
 var requestURL = "/assets/publications/pubsList.json"; // Identifies the json file where the publications are listed
 var request = new XMLHttpRequest();
 var author = "Ashwinkumar Ganesan"
-/*
-request.open('GET', requestURL);
-
-request.responseType = 'json';
-request.send();
-
-request.onload = function() {
-  var pubs = request.response;
-  //showPubsByYear(pubs);
-  //showPubsByType(pubs);
-  //showPubsByTopic(pubs);
-}
-*/
 
 function showPubsByYear(){//jsonObj) {
 
@@ -32,11 +19,7 @@ function showPubsByYear(){//jsonObj) {
   var myArticle;
   var section = document.querySelector('#publications');
   request.onload = function() {
-    //console.log("setting jsonObj")
     jsonObj = request.response;
-    //showPubsByYear(pubs);
-    //showPubsByType(pubs);
-    //showPubsByTopic(pubs);
     $(".pubList").remove();
 
   var pubs = jsonObj['pubs'];
