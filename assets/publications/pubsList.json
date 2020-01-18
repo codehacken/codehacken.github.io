@@ -8,7 +8,7 @@
         "venue" : "2nd Workshop on SafeAI @ AAAI 2020",
         "link" : "",
         "type": "0-Conferences & Workshops",
-        "topic": "Reinforcement Learning",
+        "topic": "5-Reinforcement Learning",
         "awards": "",
         "image":"",
         "acceptance":""
@@ -20,7 +20,7 @@
         "venue" : "International Symposium on Visual Computing, pages 219–230. Springer, 2019",
         "link" : "https://link.springer.com/chapter/10.1007/978-3-030-33720-9_17",
         "type": "0-Conferences & Workshops",
-        "topic": "Visual Computing",
+        "topic": "0-Visual Computing",
         "awards": "",
         "image":"",
         "acceptance":""
@@ -33,7 +33,7 @@
         "venue" : "DYnamic and Novel Advances in Machine Learning and Intelligent Cyber Security Workshop (ACSAC Conference), 2018",
         "link" : "https://arxiv.org/abs/1909.05890",
         "type": "0-Conferences & Workshops",
-        "topic": "AI for Security",
+        "topic": "2-AI for Security",
         "awards": "",
         "image":"",
         "acceptance":""
@@ -46,7 +46,7 @@
         "venue" : "DYnamic and Novel Advances in Machine Learning and Intelligent Cyber Security Workshop (ACSAC Conference), 2018",
         "link" : "https://arxiv.org/abs/1903.12101",
         "type": "0-Conferences & Workshops",
-        "topic": "AI for Security",
+        "topic": "2-AI for Security",
         "awards": "",
         "image":"",
         "acceptance":""
@@ -59,7 +59,7 @@
         "venue" : "In 2018 IEEE 4th InternationalConference on Collaboration and Internet Computing (CIC), pages 354–363. IEEE, 2018",
         "link" : "https://ieeexplore.ieee.org/abstract/document/8537852",
         "type": "0-Conferences & Workshops",
-        "topic": "AI for Security",
+        "topic": "2-AI for Security",
         "awards": "",
         "image":"",
         "acceptance":""
@@ -72,7 +72,7 @@
         "venue" : "ML4Fashion’17 (KDD 2017) Halifax, Nova Scotia - Canada, 2017",
         "link" : "https://arxiv.org/abs/1707.09899",
         "type": "0-Conferences & Workshops",
-        "topic": "Visual Computing",
+        "topic": "0-Visual Computing",
         "awards": "",
         "image":"",
         "acceptance":""
@@ -85,7 +85,7 @@
         "venue" : "In Neural Networks (IJCNN), 2017 International Joint Conference on,pages 3593–3600. IEEE, 2017",
         "link" : "https://ieeexplore.ieee.org/abstract/document/7966308",
         "type": "0-Conferences & Workshops",
-        "topic": "Visual Computing",
+        "topic": "0-Visual Computing",
         "awards": "",
         "image":"",
         "acceptance":""
@@ -98,7 +98,7 @@
         "venue" : "Intelligent User Interfaces - TextVis Workshop, 2015",
         "link" : "https://arxiv.org/abs/1507.0659",
         "type": "0-Conferences & Workshops",
-        "topic": "Data Visualization",
+        "topic": "4-Data Visualization",
         "awards": "",
         "image":"",
         "acceptance":""
@@ -111,7 +111,7 @@
         "venue" : "IEEE Trans-actions on Circuits and Systems I: Regular Papers, pages 1–14, 2018",
         "link" : "https://ieeexplore.ieee.org/abstract/document/8419763",
         "type": "1-Journals",
-        "topic": "Deep Learning for Time Series",
+        "topic": "3-Deep Learning for Time Series",
         "awards": "",
         "image":"",
         "acceptance":""
@@ -124,7 +124,7 @@
         "venue" : "PLoS computational biology, 9(6):e1003107, 2013",
         "link" : "https://ieeexplore.ieee.org/abstract/document/8419763",
         "type": "1-Journals",
-        "topic": "Other",
+        "topic": "6-Interdisciplinary Research",
         "awards": "",
         "image":"",
         "acceptance":""
@@ -136,7 +136,7 @@
       "venue" : "University of Maryland, Baltimore County, 2012",
       "link" : "https://search.proquest.com/pqdtlocal1005865/docview/1287085063/EF450108BF5F4F65PQ/1",
       "type": "2-Masters Thesis",
-      "topic": "Other",
+      "topic": "4-Data Visualization",
       "awards": "",
       "image":"",
       "acceptance":""
@@ -148,7 +148,7 @@
      "venue" : "Mid-Atlantic Student Colloquium on Speech, Language and Learning (MASC-SLL)., 2018",
      "link" : "#",
      "type": "3-Posters",
-     "topic": "Natural Language Processing",
+     "topic": "1-Natural Language Processing",
      "awards": "",
      "image":"",
      "acceptance":""
@@ -160,7 +160,7 @@
     "venue" : "Mid-Atlantic Student Colloquium on Speech, Language and Learning (MASC-SLL)., 2017",
     "link" : "/assets/publications/MASCLL_2017_Poster.pdf",
     "type": "3-Posters",
-    "topic": "Natural Language Processing",
+    "topic": "1-Natural Language Processing",
     "awards": "",
     "image":"",
     "acceptance":""

@@ -245,10 +245,10 @@ function showPubsByTopic(){//jsonObj) {
 
       var tp = document.createElement("h3");
       tp.className = "pubHead";
-      tp.textContent = pubs[i].topic;
-      if(pubs[i].topic == "Z-Other"){
+      tp.textContent = pubs[i].topic.substring(2);
+      /*if(pubs[i].topic == "Z-Other"){
         tp.textContent = pubs[i].topic.substring(2);
-      }
+      }*/
       myArticle.appendChild(tp);
       lastTopic = pubs[i].topic;
     }
