@@ -2,11 +2,11 @@
   "listName" : "Publications",
   "pubs" : [
        {
-         "title" : "Locality Preserving Loss to Align Vector Spaces.",
+         "title" : "Locality Preserving Loss to Align Vector Spaces",
          "year" : 2020,
          "authors" : ["Ashwinkumar Ganesan", "Francis Ferraro", "Tim Oates"],
          "venue" : "",
-         "link" : "",
+         "link" : "https://arxiv.org/abs/2004.03734",
          "type": "0-Conferences & Workshops",
          "topic": "1-Natural Language Processing",
          "awards": "",
@@ -18,7 +18,7 @@
         "year" : 2020,
         "authors" : ["Bharat Prakash", "Nicholas Waytowich", "Ashwinkumar Ganesan", "Tim Oates", "Tinoosh Mohsenin"],
         "venue" : "2nd Workshop on SafeAI @ AAAI 2020",
-        "link" : "",
+        "link" : "http://ceur-ws.org/Vol-2560/paper38.pdf",
         "type": "0-Conferences & Workshops",
         "topic": "5-Reinforcement Learning",
         "awards": "",
