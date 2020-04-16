@@ -1,6 +1,18 @@
 {
   "listName" : "Publications",
   "pubs" : [
+       {
+         "title" : "Locality Preserving Loss to Align Vector Spaces.",
+         "year" : 2020,
+         "authors" : ["Ashwinkumar Ganesan", "Francis Ferraro", "Tim Oates"],
+         "venue" : "",
+         "link" : "",
+         "type": "0-Conferences & Workshops",
+         "topic": "1-Natural Language Processing",
+         "awards": "",
+         "image":"",
+         "acceptance":""
+       },
       {
         "title" : "Guiding safe reinforcement learning policies using structured language constraints",
         "year" : 2020,
