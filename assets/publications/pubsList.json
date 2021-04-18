@@ -1,12 +1,25 @@
 {
   "listName" : "Publications",
   "pubs" : [
+
+      {
+        "title" : "Locality Preserving Loss: Neighbors that Live together, Align together",
+        "year" : 2021,
+        "authors" : ["Ashwinkumar Ganesan", "Francis Ferraro", "Tim Oates"],
+        "venue" : "AdaptNPT: The Second Workshop on Domain Adaptation for NLP @ EACL 2021",
+        "link" : "https://arxiv.org/abs/2004.03734",
+        "type": "0-Conferences & Workshops",
+        "topic": "1-Natural Language Processing",
+        "awards": "",
+        "image":"",
+        "acceptance":""
+      },
        {
          "title" : "Locality Preserving Loss to Align Vector Spaces",
          "year" : 2020,
          "authors" : ["Ashwinkumar Ganesan", "Francis Ferraro", "Tim Oates"],
          "venue" : "",
-         "link" : "https://arxiv.org/abs/2004.03734",
+         "link" : "https://arxiv.org/abs/2004.03734v1",
          "type": "0-Conferences & Workshops",
          "topic": "1-Natural Language Processing",
          "awards": "",
