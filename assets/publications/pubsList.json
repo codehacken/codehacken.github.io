@@ -1,184 +1,231 @@
 {
   "listName" : "Publications",
   "pubs" : [
-
+    {
+      "title" : " Improving low resource speech translation with data augmentation and ensemble strategies.",
+      "year" : 2023,
+      "authors" : ["Akshaya Vishnu Kudlu Shanbhogue", "Ran Xue", "Soumya Saha", "Daniel Zhang", "Ashwinkumar Ganesan"],
+      "venue" : "Proceedings of the 20th International Conference on Spoken Language Translation (IWSLT 2023), pages 241–250, Toronto, Canada (in-person and online), July 2023. Association for Computational Linguistics",
+      "link" : "https://aclanthology.org/2023.iwslt-1.21/",
+      "type": "0-Conferences & Workshops",
+      "topic": "1-Natural Language Processing",
+      "awards": "",
+      "image":"",
+      "acceptance":""
+    },
+    {
+      "title" : "L2-gen: A neural phoneme paraphrasing approach to l2 speech synthesis for mispronunciation diagnosis",
+      "year" : 2022,
+      "authors" : ["Daniel (Yue) Zhang*", "Ashwinkumar Ganesan*", "Sarah Campbell", "Daniel Korzekwa"],
+      "venue" : "Interspeech 2022",
+      "link" : "https://www.isca-archive.org/interspeech_2022/zhang22_interspeech.html",
+      "type": "0-Conferences & Workshops",
+      "topic": "1-Natural Language Processing",
+      "awards": "",
+      "image":"",
+      "acceptance":""
+    },
+    {
+      "title" : "Improving machine translation formality control with weakly-labelled data augmentation and post editing strategies.",
+      "year" : 2022,
+      "authors" : ["Daniel Zhang*", "Jiang* Yu", "Pragati Verma*", "Ashwinkumar Ganesan*", "Sarah Campbell"],
+      "venue" : "Proceedings of the 19th International Conference on Spoken Language Translation (IWSLT 2022), pages 351–360, Dublin, Ireland",
+      "link" : "https://aclanthology.org/2022.iwslt-1.32/",
+      "type": "0-Conferences & Workshops",
+      "topic": "1-Natural Language Processing",
+      "awards": "",
+      "image":"",
+      "acceptance":""
+    },
+    {
+      "title" : "Predicting network threat events using HMM Ensembles",
+      "year" : 2022,
+      "authors" : ["Akshay Peshave", "Ashwinkumar Ganesan", "Tim Oates"],
+      "venue" : "Advanced Data Mining and Applications: 17th International Conference, ADMA 2021, Sydney, NSW, Australia, February 2–4, 2022, Proceedings, Part I, pages 229–240,",
+      "link" : "https://dl.acm.org/doi/10.1007/978-3-030-95405-5_17",
+      "type": "0-Conferences & Workshops",
+      "topic": "1-Natural Language Processing",
+      "awards": "",
+      "image":"",
+      "acceptance":""
+    },
+    {
+      "title" : "Locality Preserving Loss: Neighbors that Live together, Align together",
+      "year" : 2021,
+      "authors" : ["Ashwinkumar Ganesan", "Francis Ferraro", "Tim Oates"],
+      "venue" : "AdaptNPT: The Second Workshop on Domain Adaptation for NLP @ EACL 2021",
+      "link" : "https://arxiv.org/abs/2004.03734",
+      "type": "0-Conferences & Workshops",
+      "topic": "1-Natural Language Processing",
+      "awards": "",
+      "image":"",
+      "acceptance":""
+    },
       {
-        "title" : "Locality Preserving Loss: Neighbors that Live together, Align together",
-        "year" : 2021,
+        "title" : "Locality Preserving Loss to Align Vector Spaces",
+        "year" : 2020,
         "authors" : ["Ashwinkumar Ganesan", "Francis Ferraro", "Tim Oates"],
-        "venue" : "AdaptNPT: The Second Workshop on Domain Adaptation for NLP @ EACL 2021",
-        "link" : "https://arxiv.org/abs/2004.03734",
+        "venue" : "",
+        "link" : "https://arxiv.org/abs/2004.03734v1",
         "type": "0-Conferences & Workshops",
         "topic": "1-Natural Language Processing",
         "awards": "",
         "image":"",
         "acceptance":""
       },
-       {
-         "title" : "Locality Preserving Loss to Align Vector Spaces",
-         "year" : 2020,
-         "authors" : ["Ashwinkumar Ganesan", "Francis Ferraro", "Tim Oates"],
-         "venue" : "",
-         "link" : "https://arxiv.org/abs/2004.03734v1",
-         "type": "0-Conferences & Workshops",
-         "topic": "1-Natural Language Processing",
-         "awards": "",
-         "image":"",
-         "acceptance":""
-       },
-      {
-        "title" : "Guiding safe reinforcement learning policies using structured language constraints",
-        "year" : 2020,
-        "authors" : ["Bharat Prakash", "Nicholas Waytowich", "Ashwinkumar Ganesan", "Tim Oates", "Tinoosh Mohsenin"],
-        "venue" : "2nd Workshop on SafeAI @ AAAI 2020",
-        "link" : "http://ceur-ws.org/Vol-2560/paper38.pdf",
-        "type": "0-Conferences & Workshops",
-        "topic": "5-Reinforcement Learning",
-        "awards": "",
-        "image":"",
-        "acceptance":""
-      },
-      {
-        "title" : "Improving Visual Reasoning with Attention Alignment",
-        "year" : 2019,
-        "authors" : ["Komal Sharan", "Ashwinkumar Ganesan", "Tim Oates"],
-        "venue" : "International Symposium on Visual Computing, pages 219–230. Springer, 2019",
-        "link" : "https://link.springer.com/chapter/10.1007/978-3-030-33720-9_17",
-        "type": "0-Conferences & Workshops",
-        "topic": "0-Visual Computing",
-        "awards": "",
-        "image":"",
-        "acceptance":""
-      },
-
-      {
-        "title" : "Determining the Scale of Impact from Denial-of-service Attacks in Real Time using Twitter",
-        "year" : 2018,
-        "authors" : ["Chi Zhang", "Bryan Wilkinson", "Ashwinkumar Ganesan", "Tim Oates"],
-        "venue" : "DYnamic and Novel Advances in Machine Learning and Intelligent Cyber Security Workshop (ACSAC Conference), 2018",
-        "link" : "https://arxiv.org/abs/1909.05890",
-        "type": "0-Conferences & Workshops",
-        "topic": "2-AI for Security",
-        "awards": "",
-        "image":"",
-        "acceptance":""
-      },
-
-      {
-        "title" : "Extending Signature-based Intrusion Detection Systems with Bayesian Abductive Reasoning",
-        "year" : 2018,
-        "authors" : ["Ashwinkumar Ganesan", "Pooja Parameshwarappa", "Akshay Peshave", "Zhiyuan Chen", "Tim Oates"],
-        "venue" : "DYnamic and Novel Advances in Machine Learning and Intelligent Cyber Security Workshop (ACSAC Conference), 2018",
-        "link" : "https://arxiv.org/abs/1903.12101",
-        "type": "0-Conferences & Workshops",
-        "topic": "2-AI for Security",
-        "awards": "",
-        "image":"",
-        "acceptance":""
-      },
-
-      {
-        "title" : "Early Detection of Cybersecurity Threats using Collaborative Cognition",
-        "year" : 2018,
-        "authors" : ["Sandeep Nair Narayanan", "Ashwinkumar Ganesan", "Karuna Joshi", "Tim Oates", "Anupam Joshi", "Tim Finin"],
-        "venue" : "In 2018 IEEE 4th InternationalConference on Collaboration and Internet Computing (CIC), pages 354–363. IEEE, 2018",
-        "link" : "https://ieeexplore.ieee.org/abstract/document/8537852",
-        "type": "0-Conferences & Workshops",
-        "topic": "2-AI for Security",
-        "awards": "",
-        "image":"",
-        "acceptance":""
-      },
-
-      {
-        "title" : "Fashioning with networks: Neural style transfer to Design Clothes",
-        "year" : 2017,
-        "authors" : ["Prutha Date", "Ashwinkumar Ganesan", "Tim Oates"],
-        "venue" : "ML4Fashion’17 (KDD 2017) Halifax, Nova Scotia - Canada, 2017",
-        "link" : "https://arxiv.org/abs/1707.09899",
-        "type": "0-Conferences & Workshops",
-        "topic": "0-Visual Computing",
-        "awards": "",
-        "image":"",
-        "acceptance":""
-      },
-
-      {
-        "title" : "Identifying Spatial Relations in Images using Convolutional Neural Networks",
-        "year" : 2017,
-        "authors" : ["Mandar Haldekar", "Ashwinkumar Ganesan", "Tim Oates"],
-        "venue" : "In Neural Networks (IJCNN), 2017 International Joint Conference on,pages 3593–3600. IEEE, 2017",
-        "link" : "https://ieeexplore.ieee.org/abstract/document/7966308",
-        "type": "0-Conferences & Workshops",
-        "topic": "0-Visual Computing",
-        "awards": "",
-        "image":"",
-        "acceptance":""
-      },
-
-      {
-        "title" : "LDAExplore: Visualizing topic models generated using latent dirichlet allocation",
-        "year" : 2015,
-        "authors" : ["Ashwinkumar Ganesan", "Kiante Brantley", "Shimei Pan", "Jian Chen"],
-        "venue" : "Intelligent User Interfaces - TextVis Workshop, 2015",
-        "link" : "https://arxiv.org/abs/1507.0659",
-        "type": "0-Conferences & Workshops",
-        "topic": "4-Data Visualization",
-        "awards": "",
-        "image":"",
-        "acceptance":""
-      },
-
-      {
-        "title" : "A scalable and low-power deep convolutional neural network for multimodal data classification",
-        "year" : 2018,
-        "authors" : ["A. Jafari", "Ashwinkumar Ganesan", "C. S. K. Thalisetty", "V. Sivasubramanian", "T. Oates", "T. Mohsenin"],
-        "venue" : "IEEE Trans-actions on Circuits and Systems I: Regular Papers, pages 1–14, 2018",
-        "link" : "https://ieeexplore.ieee.org/abstract/document/8419763",
-        "type": "1-Journals",
-        "topic": "3-Deep Learning for Time Series",
-        "awards": "",
-        "image":"",
-        "acceptance":""
-      },
-
-      {
-        "title" : "Bacteria-human somatic cell lateral gene transfer is en-riched in cancer samples",
-        "year" : 2013,
-        "authors" : ["David R Riley", "Karsten B Sieber", "Kelly M Robinson", "James Robert White", "Ashwinkumar Ganesan", "Syrus Nourbakhsh", "Julie C Dunning Hotopp"],
-        "venue" : "PLoS computational biology, 9(6):e1003107, 2013",
-        "link" : "https://ieeexplore.ieee.org/abstract/document/8419763",
-        "type": "1-Journals",
-        "topic": "6-Interdisciplinary Research",
-        "awards": "",
-        "image":"",
-        "acceptance":""
-    },
     {
-      "title" : "Calculating Representativeness of Geographic Sites Across the World",
-      "year" : 2012,
-      "authors" : ["Ashwinkumar Ganesan"],
-      "venue" : "University of Maryland, Baltimore County, 2012",
-      "link" : "https://search.proquest.com/pqdtlocal1005865/docview/1287085063/EF450108BF5F4F65PQ/1",
-      "type": "2-Masters Thesis",
-      "topic": "4-Data Visualization",
+      "title" : "Guiding safe reinforcement learning policies using structured language constraints",
+      "year" : 2020,
+      "authors" : ["Bharat Prakash", "Nicholas Waytowich", "Ashwinkumar Ganesan", "Tim Oates", "Tinoosh Mohsenin"],
+      "venue" : "2nd Workshop on SafeAI @ AAAI 2020",
+      "link" : "http://ceur-ws.org/Vol-2560/paper38.pdf",
+      "type": "0-Conferences & Workshops",
+      "topic": "5-Reinforcement Learning",
       "awards": "",
       "image":"",
       "acceptance":""
     },
     {
-     "title" : "Improving grammatical error correction using multi-task learning",
-     "year" : 2018,
-     "authors" : ["Bharat Prakash", "Ashwinkumar Ganesan", "Sarthak Mehta", "John Cellozi", "Frank Ferraro"],
-     "venue" : "Mid-Atlantic Student Colloquium on Speech, Language and Learning (MASC-SLL)., 2018",
-     "link" : "#",
-     "type": "3-Posters",
-     "topic": "1-Natural Language Processing",
-     "awards": "",
-     "image":"",
-     "acceptance":""
-   },
-   {
+      "title" : "Improving Visual Reasoning with Attention Alignment",
+      "year" : 2019,
+      "authors" : ["Komal Sharan", "Ashwinkumar Ganesan", "Tim Oates"],
+      "venue" : "International Symposium on Visual Computing, pages 219–230. Springer, 2019",
+      "link" : "https://link.springer.com/chapter/10.1007/978-3-030-33720-9_17",
+      "type": "0-Conferences & Workshops",
+      "topic": "0-Visual Computing",
+      "awards": "",
+      "image":"",
+      "acceptance":""
+    },
+
+    {
+      "title" : "Determining the Scale of Impact from Denial-of-service Attacks in Real Time using Twitter",
+      "year" : 2018,
+      "authors" : ["Chi Zhang", "Bryan Wilkinson", "Ashwinkumar Ganesan", "Tim Oates"],
+      "venue" : "DYnamic and Novel Advances in Machine Learning and Intelligent Cyber Security Workshop (ACSAC Conference), 2018",
+      "link" : "https://arxiv.org/abs/1909.05890",
+      "type": "0-Conferences & Workshops",
+      "topic": "2-AI for Security",
+      "awards": "",
+      "image":"",
+      "acceptance":""
+    },
+
+    {
+      "title" : "Extending Signature-based Intrusion Detection Systems with Bayesian Abductive Reasoning",
+      "year" : 2018,
+      "authors" : ["Ashwinkumar Ganesan", "Pooja Parameshwarappa", "Akshay Peshave", "Zhiyuan Chen", "Tim Oates"],
+      "venue" : "DYnamic and Novel Advances in Machine Learning and Intelligent Cyber Security Workshop (ACSAC Conference), 2018",
+      "link" : "https://arxiv.org/abs/1903.12101",
+      "type": "0-Conferences & Workshops",
+      "topic": "2-AI for Security",
+      "awards": "",
+      "image":"",
+      "acceptance":""
+    },
+
+    {
+      "title" : "Early Detection of Cybersecurity Threats using Collaborative Cognition",
+      "year" : 2018,
+      "authors" : ["Sandeep Nair Narayanan", "Ashwinkumar Ganesan", "Karuna Joshi", "Tim Oates", "Anupam Joshi", "Tim Finin"],
+      "venue" : "In 2018 IEEE 4th InternationalConference on Collaboration and Internet Computing (CIC), pages 354–363. IEEE, 2018",
+      "link" : "https://ieeexplore.ieee.org/abstract/document/8537852",
+      "type": "0-Conferences & Workshops",
+      "topic": "2-AI for Security",
+      "awards": "",
+      "image":"",
+      "acceptance":""
+    },
+
+    {
+      "title" : "Fashioning with networks: Neural style transfer to Design Clothes",
+      "year" : 2017,
+      "authors" : ["Prutha Date", "Ashwinkumar Ganesan", "Tim Oates"],
+      "venue" : "ML4Fashion’17 (KDD 2017) Halifax, Nova Scotia - Canada, 2017",
+      "link" : "https://arxiv.org/abs/1707.09899",
+      "type": "0-Conferences & Workshops",
+      "topic": "0-Visual Computing",
+      "awards": "",
+      "image":"",
+      "acceptance":""
+    },
+
+    {
+      "title" : "Identifying Spatial Relations in Images using Convolutional Neural Networks",
+      "year" : 2017,
+      "authors" : ["Mandar Haldekar", "Ashwinkumar Ganesan", "Tim Oates"],
+      "venue" : "In Neural Networks (IJCNN), 2017 International Joint Conference on,pages 3593–3600. IEEE, 2017",
+      "link" : "https://ieeexplore.ieee.org/abstract/document/7966308",
+      "type": "0-Conferences & Workshops",
+      "topic": "0-Visual Computing",
+      "awards": "",
+      "image":"",
+      "acceptance":""
+    },
+
+    {
+      "title" : "LDAExplore: Visualizing topic models generated using latent dirichlet allocation",
+      "year" : 2015,
+      "authors" : ["Ashwinkumar Ganesan", "Kiante Brantley", "Shimei Pan", "Jian Chen"],
+      "venue" : "Intelligent User Interfaces - TextVis Workshop, 2015",
+      "link" : "https://arxiv.org/abs/1507.0659",
+      "type": "0-Conferences & Workshops",
+      "topic": "4-Data Visualization",
+      "awards": "",
+      "image":"",
+      "acceptance":""
+    },
+
+    {
+      "title" : "A scalable and low-power deep convolutional neural network for multimodal data classification",
+      "year" : 2018,
+      "authors" : ["A. Jafari", "Ashwinkumar Ganesan", "C. S. K. Thalisetty", "V. Sivasubramanian", "T. Oates", "T. Mohsenin"],
+      "venue" : "IEEE Trans-actions on Circuits and Systems I: Regular Papers, pages 1–14, 2018",
+      "link" : "https://ieeexplore.ieee.org/abstract/document/8419763",
+      "type": "1-Journals",
+      "topic": "3-Deep Learning for Time Series",
+      "awards": "",
+      "image":"",
+      "acceptance":""
+    },
+
+    {
+      "title" : "Bacteria-human somatic cell lateral gene transfer is en-riched in cancer samples",
+      "year" : 2013,
+      "authors" : ["David R Riley", "Karsten B Sieber", "Kelly M Robinson", "James Robert White", "Ashwinkumar Ganesan", "Syrus Nourbakhsh", "Julie C Dunning Hotopp"],
+      "venue" : "PLoS computational biology, 9(6):e1003107, 2013",
+      "link" : "https://ieeexplore.ieee.org/abstract/document/8419763",
+      "type": "1-Journals",
+      "topic": "6-Interdisciplinary Research",
+      "awards": "",
+      "image":"",
+      "acceptance":""
+    },
+    {
+    "title" : "Calculating Representativeness of Geographic Sites Across the World",
+    "year" : 2012,
+    "authors" : ["Ashwinkumar Ganesan"],
+    "venue" : "University of Maryland, Baltimore County, 2012",
+    "link" : "https://search.proquest.com/pqdtlocal1005865/docview/1287085063/EF450108BF5F4F65PQ/1",
+    "type": "2-Masters Thesis",
+    "topic": "4-Data Visualization",
+    "awards": "",
+    "image":"",
+    "acceptance":""
+    },
+    {
+    "title" : "Improving grammatical error correction using multi-task learning",
+    "year" : 2018,
+    "authors" : ["Bharat Prakash", "Ashwinkumar Ganesan", "Sarthak Mehta", "John Cellozi", "Frank Ferraro"],
+    "venue" : "Mid-Atlantic Student Colloquium on Speech, Language and Learning (MASC-SLL)., 2018",
+    "link" : "#",
+    "type": "3-Posters",
+    "topic": "1-Natural Language Processing",
+    "awards": "",
+    "image":"",
+    "acceptance":""
+    },
+    {
     "title" : "Shell: Scoring human-like errors in generated language",
     "year" : 2017,
     "authors" : ["Bryan Wilkinson", "Ashwinkumar Ganesan", "Tim Oates"],
@@ -189,6 +236,6 @@
     "awards": "",
     "image":"",
     "acceptance":""
-   }
+    }
 ]
 }
