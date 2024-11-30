@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /
+
+User-agent: Bingbot
+Allow:/
+
+User-agent: Googlebot
+Allow:/
+
+User-agent: DuckDuckBot
+Allow:/
+
+User-agent: ia_archiver
+Disallow: /
