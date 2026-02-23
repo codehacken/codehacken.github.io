@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-02-22T20:19:07-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Non Reluctant Conversationalist</title><subtitle>Ashwinkumar Ganesan&apos;s personal website.</subtitle><entry><title type="html">Hello World</title><link href="http://localhost:4000/introduction/2025/02/22/hello-world.html" rel="alternate" type="text/html" title="Hello World" /><published>2025-02-22T12:00:00-05:00</published><updated>2025-02-22T12:00:00-05:00</updated><id>http://localhost:4000/introduction/2025/02/22/hello-world</id><content type="html" xml:base="http://localhost:4000/introduction/2025/02/22/hello-world.html"><![CDATA[<p>AI is changing the world in ways we never imagined. From self-driving cars to automated programming, AI is transforming the way businesses operate. Apart from AI, I plan to write about my thoughts on various topics. I hope you enjoy reading my musings.</p>
+
+<p>For this post, I wanted to test unique topics combinations using popular LLMs.
+Here’s a rap limerick on personal happiness — written in Python. Read the comments and the code together, top to bottom, and let it flow 🎤:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Query: Write a rap in the form of a limerick about personal happiness in the form of python code block in blog post.
+</code></pre></div></div>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># A Rap Limerick on Personal Happiness 🎵
+</span>
+<span class="k">def</span> <span class="nf">happiness</span><span class="p">(</span><span class="n">soul</span><span class="p">):</span>
+    <span class="c1"># There once was a soul feelin' low,
+</span>    <span class="n">mood</span> <span class="o">=</span> <span class="n">soul</span><span class="p">.</span><span class="n">start</span><span class="p">(</span><span class="n">feeling</span><span class="o">=</span><span class="s">"low"</span><span class="p">)</span>
+
+    <span class="c1"># Who searched high and hustled below,
+</span>    <span class="n">hustle</span> <span class="o">=</span> <span class="n">search_high</span><span class="p">()</span> <span class="o">+</span> <span class="n">grind_below</span><span class="p">()</span>
+
+    <span class="c1">#   They found joy within,
+</span>    <span class="n">joy</span> <span class="o">=</span> <span class="n">soul</span><span class="p">.</span><span class="n">look_within</span><span class="p">()</span>
+
+    <span class="c1">#   Said "yo, let me begin,"
+</span>    <span class="n">soul</span><span class="p">.</span><span class="n">begin</span><span class="p">(</span><span class="n">joy</span><span class="p">)</span>
+
+    <span class="c1"># Now they vibin' and stealin' the show! 🎤
+</span>    <span class="k">return</span> <span class="n">vibe</span><span class="p">(</span><span class="n">joy</span> <span class="o">+</span> <span class="n">hustle</span><span class="p">)</span>  <span class="c1"># the recipe, no cap 🧢
+</span>
+<span class="n">happiness</span><span class="p">(</span><span class="n">soul</span><span class="p">)</span>  <span class="c1"># run this daily for best results ✨
+</span></code></pre></div></div>]]></content><author><name></name></author><category term="Introduction" /><summary type="html"><![CDATA[AI is changing the world in ways we never imagined. From self-driving cars to automated programming, AI is transforming the way businesses operate. Apart from AI, I plan to write about my thoughts on various topics. I hope you enjoy reading my musings.]]></summary></entry></feed>
